@@ -1,5 +1,5 @@
 # Grople-Syrup-Prediction
-Do have a look at my Resume
+
 We have been given the monthly production quantity for a certain agricultural product (let’s call it
 Grople syrup, note - no relation to actual Maple Syrup) in 10 different provinces of a country
 between January 2015 to December 2020. This Grople syrup comes from a fruit. It takes a few
